@@ -81,7 +81,7 @@
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arpandutta05&" alt="arpandutta05" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arpandutta05&" alt="arpandutta05" height="30" width="40"  />
 </p>
 
 <p>
