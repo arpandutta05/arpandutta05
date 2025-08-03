@@ -75,15 +75,16 @@
 
 ---
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpandutta05&show_icons=true&locale=en&layout=compact" alt="arpandutta05" height="187" width="490" />
+</p>
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arpandutta05&show_icons=true&locale=en" alt="arpandutta05" height="100" width="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpandutta05&show_icons=true&locale=en" alt="arpandutta05" height="990" width="450" />
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arpandutta05&" alt="arpandutta05" height="100" width="200"  />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arpandutta05&" alt="arpandutta05" height="500" width="1000"  />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpandutta05&show_icons=true&locale=en&layout=compact" alt="arpandutta05" />
-</p>
+
