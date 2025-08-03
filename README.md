@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f1d447a-6696-4326-ba38-c69791b937f4" alt="ARPAN DUTTA" />
+  <img src="https://github.com/user-attachments/assets/b8f4f9c0-3f0b-4d05-b7d6-0cea7e8c40cc" alt="ARPAN DUTTA" />
 </p>
 
 
@@ -17,7 +17,7 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8f4f9c0-3f0b-4d05-b7d6-0cea7e8c40cc" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=arpandutta05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 - 🌱 I’m currently learning **Web Dev**  
