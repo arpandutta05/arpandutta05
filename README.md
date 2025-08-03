@@ -77,11 +77,11 @@
 
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arpandutta05&show_icons=true&locale=en" alt="arpandutta05" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arpandutta05&show_icons=true&locale=en" alt="arpandutta05" height="100" width="200" />
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arpandutta05&" alt="arpandutta05" height="30" width="40"  />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arpandutta05&" alt="arpandutta05" height="100" width="200"  />
 </p>
 
 <p>
