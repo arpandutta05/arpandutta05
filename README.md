@@ -1,6 +1,6 @@
 <!-- Banner image -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8f4f9c0-3f0b-4d05-b7d6-0cea7e8c40cc" alt="ARPAN DUTTA" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQFEXXI9unsdhA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1702231853659?e=1756944000&v=beta&t=000otbQgMbobh1PuGMYxnqHQpOwnmS570R9m3yFKRh4" alt="ARPAN DUTTA" />
 </p>
 
 
