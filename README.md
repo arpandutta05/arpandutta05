@@ -22,7 +22,18 @@
 
 - 🌱 I’m currently learning **Web Dev**  
 - 💻 I am currently working on an **IoT-based project**  
-- 📫 Reach me at: **arpandutta.in@gmail.com**
+
+- <p>
+  📫 Reach me at:
+  <a
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=arpandutta.in@gmail.com"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <strong>arpandutta.in@gmail.com</strong>
+  </a>
+</p>
+
 
 ---
 
