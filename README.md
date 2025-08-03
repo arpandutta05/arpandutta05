@@ -75,14 +75,15 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpandutta05&show_icons=true&locale=en&layout=compact" alt="arpandutta05" />
-</p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpandutta05&show_icons=true&locale=en" alt="arpandutta05" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=arpandutta05&show_icons=true&locale=en" alt="arpandutta05" />
 </p>
 
 <p>
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arpandutta05&" alt="arpandutta05" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpandutta05&show_icons=true&locale=en&layout=compact" alt="arpandutta05" />
 </p>
